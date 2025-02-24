@@ -3,7 +3,7 @@ Authors: Matthias Himmelmann, Martin Cramer Pedersen, Michael A. Klatt, Philipp 
 
 ## Generation of Punctured Parallel Sheets in the 3-torus
 
-[DisorderedPointClusters.jl]([http://example.com](https://github.com/matthiashimmelmann/DisorderedPointClusters.jl)) (Julia code)
+[DisorderedPointClusters.jl](https://github.com/matthiashimmelmann/DisorderedPointClusters.jl) (Julia code)
 
 ## Surface Evolver Code
 
