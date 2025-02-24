@@ -7,5 +7,6 @@ Authors: Matthias Himmelmann, Martin Cramer Pedersen, Michael A. Klatt, Philipp 
 
 ## Surface Evolver Code
 
-Topology-stabilized curvature optimization (example file): 
-Isotropicalization Algorithm (example file): 
+Topology-stabilized curvature optimization (example file): amorphous-diamond-50b.fe
+
+Enforcing Isotropy Algorithm (example file): isotropicalize_tD.fe
