@@ -16,3 +16,7 @@ Enforcing Isotropy Algorithm (example file): [`isotropicalize_tD.fe`](https://gi
 The Python code used for our calculation of TPMS properties can be found at:
 
 https://gitlab.com/mcpe/tpmsweierstrass
+
+## Generation of amorphous Diamond initial configurations
+
+Available from authors upon reasonable request
